@@ -7,6 +7,7 @@ public class pru2 {
 		b=1;
 	}
 	
+	//comentamos
 	public void dos() {
 		int b;
 		b=2;
