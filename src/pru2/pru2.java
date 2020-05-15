@@ -5,5 +5,7 @@ public class pru2 {
 	public void uno() {
 		int a;
 		a=1;
+		
+		int b;
 	}
 }
