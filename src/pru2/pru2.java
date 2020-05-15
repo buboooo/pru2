@@ -2,4 +2,7 @@ package pru2;
 
 public class pru2 {
 
+	public void uno() {
+		
+	}
 }
