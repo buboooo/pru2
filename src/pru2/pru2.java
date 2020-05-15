@@ -6,4 +6,9 @@ public class pru2 {
 		int b;
 		b=1;
 	}
+	
+	public void dos() {
+		int b;
+		b=2;
+	}
 }
