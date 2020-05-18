@@ -12,4 +12,5 @@ public class pru2 {
 		int b;
 		b=2;
 	}
+	//otro
 }
