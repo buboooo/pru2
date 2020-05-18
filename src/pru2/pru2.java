@@ -8,4 +8,16 @@ public class pru2 {
 		
 		int b;
 	}
+	
+	//comentamos
+	public void dos() {
+		int b;
+		b=2;
+	}
+	
+	public void tres() {
+		int c;
+	}
+	
+
 }
